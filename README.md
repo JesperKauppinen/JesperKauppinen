@@ -1,3 +1,4 @@
+[Check my website (github.io)](https://jesperkauppinen.github.io/)
 - 👋 Hi, I’m @JesperKauppinen
 - 👀 I’m interested in computer sience, cooking and astrophotography.
 - 🌱 I’m currently learning typescipt.
